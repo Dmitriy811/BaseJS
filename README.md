@@ -1,4 +1,4 @@
-# Todolist
+# Four projects
 
-## FIRST
-![My to do](todoList/todoList.jpg)
+1. Regular todoList
+2. Work whith news api
