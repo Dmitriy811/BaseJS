@@ -1,7 +1,8 @@
 # Four projects
 
 1. Regular todoList
-2. Work whith news api
+2. Work with news api
+3. Work with webpack and ticket api
 
 # My projects (HTML/CSS)
 
